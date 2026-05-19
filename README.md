@@ -48,17 +48,3 @@ O banco de dados `db_rotasolidaria` é composto pelas seguintes entidades relaci
 * `tb_usuarios`: Armazena dados dos cidadãos/refugiados solicitantes.
 * `tb_postos_atendimento`: Armazena o endereço, capacidade e índice de lotação de cada posto CadÚnico.
 * `tb_encaminhamentos`: Tabela pivô que registra os protocolos gerados e vincula o usuário ao posto recomendado.
-
----
-
-## 🚀 Como Executar o Projeto Localmente
-
-### Pré-requisitos
-* Java JDK instalado configurado nas variáveis de ambiente.
-* MySQL Server ativo na máquina (pode ser via XAMPP).
-* IDE de sua preferência (VS Code com Extension Pack for Java ou NetBeans).
-
-### Passo a Passo
-1. Clone o repositório para sua máquina:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/SEU-USUARIO/nome-do-repositorio.git)
